@@ -1,3 +1,0 @@
-/home/student/Desktop/Robotics/Exercise 1/HelloWorldRobWork/build/CMakeFiles/rebuild_cache.dir
-/home/student/Desktop/Robotics/Exercise 1/HelloWorldRobWork/build/CMakeFiles/HelloWorldRobWork.dir
-/home/student/Desktop/Robotics/Exercise 1/HelloWorldRobWork/build/CMakeFiles/edit_cache.dir
